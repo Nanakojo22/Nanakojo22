@@ -3,6 +3,7 @@
 - 🔭 I’m an a Financial Controller and a Data Analyst with experience in the field of Finance and healthcare. 
 - 🌱 I’m currently learning on how to use ML and DL to optimize Healthcare goals.
 - 👯 I’m looking to collaborate on Data Analytics, Machine Learning and Deep learning related projects. 
+-     I'm currently looking for a Data Analsyt role in a data centric organization
 - 📫 How to reach me @ **apostleachicy@gmail.com**
 
 ## Languages and Tools
